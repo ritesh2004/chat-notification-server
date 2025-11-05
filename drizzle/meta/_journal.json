@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762089481424,
+      "tag": "0000_sticky_bloodaxe",
+      "breakpoints": true
+    }
+  ]
+}
